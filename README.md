@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Bobby!
 
-<!--
-**bobby-377/bobby-377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate from the University of Minnesota interested in full-stack software development, backend engineering, and building reliable applications.
 
-Here are some ideas to get you started:
+## Featured Project: CilkFlow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**CilkFlow — AI Chatbot Platform**
+
+A full-stack AI chatbot platform designed to help businesses automate customer interactions, answer questions, and capture leads.
+
+**Technologies:** React, TypeScript, Node.js, Express, PostgreSQL, OpenAI API, Docker, GitHub Actions
+
+**Key Features:**
+- Embeddable AI chatbot with business-specific configurations
+- PostgreSQL-backed API usage tracking and spending safeguards
+- Asynchronous email processing with concurrency controls
+- Automated integration testing and CI/CD pipelines
+- Secure backend API with input validation and rate limiting
+
+**Live Website:** https://cilkflow.com
+
+**Interactive Demo:** https://demo.cilkflow.com
+
+*Source code is maintained in a private repository.*
+
+## Technical Skills
+
+**Languages:** JavaScript, TypeScript, Python, C++, Java, SQL
+
+**Frameworks & Tools:** React, Node.js, Express, PostgreSQL, MySQL, Docker, Git, GitHub Actions
