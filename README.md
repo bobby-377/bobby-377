@@ -8,7 +8,7 @@ I'm a Computer Science graduate from the University of Minnesota interested in f
 
 A full-stack AI chatbot platform designed to help businesses automate customer interactions, answer questions, and capture leads.
 
-**Technologies:** React, TypeScript, Node.js, Express, PostgreSQL, OpenAI API, Docker, GitHub Actions
+**Technologies:** React, TypeScript, Node.js, Express, PostgreSQL, OpenAI API, GitHub Actions
 
 **Key Features:**
 - Embeddable AI chatbot with business-specific configurations
@@ -27,4 +27,4 @@ A full-stack AI chatbot platform designed to help businesses automate customer i
 
 **Languages:** JavaScript, TypeScript, Python, C++, Java, SQL
 
-**Frameworks & Tools:** React, Node.js, Express, PostgreSQL, MySQL, Docker, Git, GitHub Actions
+**Frameworks & Tools:** React, Node.js, Express, PostgreSQL, MySQL, Git, GitHub Actions
